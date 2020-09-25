@@ -1,4 +1,1 @@
-# mgneko.github.io
-可製作FGO台服所持5星英靈一覽表並產生為圖片
-
-左鍵增加，右鍵減少寶具等級，選擇完成後可點選產出圖片於新視窗產生
+I'm Creating an SR version for the SR ticket which will be posted as a website.
